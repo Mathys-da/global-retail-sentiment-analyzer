@@ -1,0 +1,1 @@
+# global-retail-sentiment-analyzer
